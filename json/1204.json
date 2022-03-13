@@ -1,0 +1,39 @@
+{
+  "name": "WenLambo's Legendary NFT Collection #1204",
+  "description": "This collection can be used as a digital asset, or to achieve the highest speeds of SmartBCH",
+  "image": "https://wenlambonft.mypinata.cloud/ipfs/QmcQjVb3yY3bx8tVMd8FfWs1VbRLHeo76C3AJKT2eaALwN/1204.png",
+  "dna": "97a3fbcd469bb6c905d1b907fec16d68b7271629",
+  "edition": 1204,
+  "date": 1642524070641,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "violet"
+    },
+    {
+      "trait_type": "lambo_colour",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "lights",
+      "value": "red_light"
+    },
+    {
+      "trait_type": "hats",
+      "value": "dog"
+    },
+    {
+      "trait_type": "accesories",
+      "value": "mustard"
+    },
+    {
+      "trait_type": "lights",
+      "value": "green_light"
+    },
+    {
+      "trait_type": "letters",
+      "value": "UOOOOO"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}
