@@ -1,34 +1,34 @@
 {
-  "name": "WenLambo's Legendary NFT Collection #1",
+  "name": "WenLambo's Legendary NFT Collection #87",
   "description": "This collection can be used as a digital asset, or to achieve the highest speeds of SmartBCH",
-  "image": "https://wenlambonft.mypinata.cloud/ipfs/QmcQjVb3yY3bx8tVMd8FfWs1VbRLHeo76C3AJKT2eaALwN/1.png",
-  "dna": "f2840582f2851089bf29f514350fb9e5ea2b2df3",
-  "edition": 1,
-  "date": 1642523619878,
+  "image": "https://wenlambonft.mypinata.cloud/ipfs/QmcQjVb3yY3bx8tVMd8FfWs1VbRLHeo76C3AJKT2eaALwN/87.png",
+  "dna": "80f906e125872a1891fcb38398d7c0b505fe3310",
+  "edition": 87,
+  "date": 1642523650140,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "violet"
+      "value": "lightblue"
     },
     {
       "trait_type": "lambo_colour",
-      "value": "orange"
+      "value": "Yellow"
     },
     {
       "trait_type": "lights",
-      "value": "blue_light"
+      "value": "rose_light"
     },
     {
       "trait_type": "hats",
-      "value": "dog"
+      "value": "shark"
     },
     {
       "trait_type": "accesories",
-      "value": "wonder woman"
+      "value": "mustard"
     },
     {
       "trait_type": "lights",
-      "value": "orange_light"
+      "value": "rose_light"
     },
     {
       "trait_type": "letters",

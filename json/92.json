@@ -1,38 +1,38 @@
 {
-  "name": "WenLambo's Legendary NFT Collection #1",
+  "name": "WenLambo's Legendary NFT Collection #92",
   "description": "This collection can be used as a digital asset, or to achieve the highest speeds of SmartBCH",
-  "image": "https://wenlambonft.mypinata.cloud/ipfs/QmcQjVb3yY3bx8tVMd8FfWs1VbRLHeo76C3AJKT2eaALwN/1.png",
-  "dna": "f2840582f2851089bf29f514350fb9e5ea2b2df3",
-  "edition": 1,
-  "date": 1642523619878,
+  "image": "https://wenlambonft.mypinata.cloud/ipfs/QmcQjVb3yY3bx8tVMd8FfWs1VbRLHeo76C3AJKT2eaALwN/92.png",
+  "dna": "64c2afeeaa9c586a7108594edf42105ba41cb9b6",
+  "edition": 92,
+  "date": 1642523652056,
   "attributes": [
     {
       "trait_type": "background",
-      "value": "violet"
+      "value": "bkcg_2"
     },
     {
       "trait_type": "lambo_colour",
-      "value": "orange"
+      "value": "Red"
     },
     {
       "trait_type": "lights",
-      "value": "blue_light"
+      "value": "lightblue_light"
     },
     {
       "trait_type": "hats",
-      "value": "dog"
+      "value": "tiger"
     },
     {
       "trait_type": "accesories",
-      "value": "wonder woman"
+      "value": "luffy"
     },
     {
       "trait_type": "lights",
-      "value": "orange_light"
+      "value": "lightblue_light"
     },
     {
       "trait_type": "letters",
-      "value": "WAHAHAHA"
+      "value": "dogo"
     }
   ],
   "compiler": "HashLips Art Engine"
