@@ -1,0 +1,39 @@
+{
+  "name": "WenLambo's Legendary NFT Collection #1508",
+  "description": "This collection can be used as a digital asset, or to achieve the highest speeds of SmartBCH",
+  "image": "https://raw.githubusercontent.com/wenlambotoken/NFTSWenLambo/main/png/1508.png",
+  "dna": "44355f4a36820331d82ee2a92f103a0c267bc2b7",
+  "edition": 1508,
+  "date": 1642524211566,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "rose"
+    },
+    {
+      "trait_type": "lambo_colour",
+      "value": "Red"
+    },
+    {
+      "trait_type": "lights",
+      "value": "green_light"
+    },
+    {
+      "trait_type": "hats",
+      "value": "tiger"
+    },
+    {
+      "trait_type": "accesories",
+      "value": "luffy"
+    },
+    {
+      "trait_type": "lights",
+      "value": "green_light"
+    },
+    {
+      "trait_type": "letters",
+      "value": "ban"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}
